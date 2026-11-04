@@ -1,0 +1,14 @@
+# conky-dashboard: system requirements
+#
+# These are APT package names (Debian, Ubuntu, Linux Mint). install.sh reads
+# this file and installs anything missing with apt-get.
+# On other distributions install the equivalents by hand (see README.md).
+#
+# No Python (pip) packages are needed: the widget only uses the Python 3
+# standard library.
+
+conky-all           # the widget engine; needs conky 1.10 or newer
+python3             # day-of-year bar and installer rendering
+curl                # "Byte of the Day" refill (optional at runtime)
+iputils-ping        # internet check before the refill
+fonts-jetbrains-mono  # the font the widget is drawn in

@@ -1,0 +1,81 @@
+The first computer bug was an actual insect — a moth found trapped in Harvard's Mark II computer in 1947, taped into the logbook by Grace Hopper's team.
+The term "algorithm" comes from the name of Persian mathematician Al-Khwarizmi (c. 780 AD), whose works introduced algebra to Europe.
+Ada Lovelace wrote the first algorithm intended for a machine in 1843, a century before the first computer was built.
+The first email was sent in 1971 by Ray Tomlinson, who also chose the @ symbol to separate username from host.
+Python was named after Monty Python's Flying Circus, not the snake. Guido van Rossum wanted a short, unique name.
+The World Wide Web was invented by Tim Berners-Lee in 1989 at CERN as a way to share physics research documents.
+The first hard drive (IBM 350 RAMAC, 1956) stored just 5MB of data, weighed over a ton, and cost $3,200/month to lease.
+Moore's Law — transistor count doubles every ~2 years — was proposed by Gordon Moore in 1965 and held true for over 50 years.
+The first computer virus, Creeper, appeared in 1971 and displayed: "I'm the creeper, catch me if you can!"
+UNIX was created at Bell Labs by Ken Thompson and Dennis Ritchie in 1969, originally to play a space travel game.
+The C programming language was developed by Dennis Ritchie at Bell Labs between 1969 and 1973 to rewrite UNIX.
+Git was created by Linus Torvalds in just 10 days in April 2005, after a dispute over BitKeeper's licensing.
+JavaScript was written by Brendan Eich in just 10 days in May 1995. It was originally called Mocha, then LiveScript.
+Claude Shannon's 1948 paper "A Mathematical Theory of Communication" single-handedly founded the field of information theory.
+The Apollo 11 guidance computer had 4KB of RAM and a 32KB hard disk — less than a modern calculator.
+The first transistor was invented at Bell Labs on December 23, 1947, by Bardeen, Brattain, and Shockley.
+IPv4 has about 4.3 billion addresses. The internet officially ran out of them in 2011. IPv6 offers 340 undecillion addresses.
+The term "artificial intelligence" was coined by John McCarthy in 1956 at the Dartmouth Conference.
+SQL was invented by Donald Chamberlin and Raymond Boyce at IBM in the early 1970s, inspired by E.F. Codd's relational model.
+The first computer mouse was made of wood, built by Douglas Engelbart in 1964. He never received royalties for it.
+Linux was started in 1991 by Linus Torvalds as a hobby project while studying at the University of Helsinki.
+The RSA encryption algorithm was published in 1977. The math behind it — factoring large primes — is still unbroken today.
+Alan Turing's 1936 paper on "computable numbers" described the theoretical Turing Machine before computers existed.
+The QWERTY keyboard was designed in 1873 not for speed, but to slow typists down to prevent typewriter jams.
+The word "robot" comes from the Czech word "robota" meaning forced labor, first used in Karel Capek's 1921 play R.U.R.
+Google's PageRank algorithm was named after co-founder Larry Page, not after the concept of web pages.
+Wi-Fi was invented by a CSIRO team led by Dr. John O'Sullivan in Australia in 1992, originally to detect exploding mini black holes.
+The term "byte" (8 bits) was coined by Werner Buchholz in 1956 during the design of IBM's STRETCH computer.
+Deep Blue defeated world chess champion Garry Kasparov in May 1997 — the first computer to beat a world champion under tournament rules.
+The first domain name ever registered was Symbolics.com on March 15, 1985. It is still active today.
+There are over 700 programming languages in existence. Most are never used in production.
+The original Apple Macintosh (1984) had 128KB of RAM and a 9-inch black-and-white display.
+Stack Overflow was founded in 2008. Over 50 million developers visit it monthly — almost every developer alive.
+The first computer game, Spacewar!, was created in 1962 at MIT on a PDP-1 costing $120,000.
+Emoji were first created in 1999 by Shigetaka Kurita for a Japanese mobile carrier. The first set had 176 emojis.
+Linus Torvalds also created Git. Two of the most widely used software projects in the world came from the same person.
+The TCP/IP protocol was developed by Vint Cerf and Bob Kahn in 1974. Cerf is often called "the father of the internet."
+The term "debugging" was popularized by Grace Hopper, though she credited the term to earlier engineering usage.
+In 1983, Richard Stallman launched the GNU Project to create a free UNIX-like operating system. The kernel was later filled by Linux.
+Amazon started as an online bookstore in Jeff Bezos's garage in 1994. It was originally called Cadabra.
+The first 1GB hard drive (IBM 3380, 1980) weighed 550 pounds, took up a refrigerator-sized cabinet, and cost $81,000.
+The concept of open source software was formalized by Christine Peterson, who also coined the term "open source" in 1998.
+Quantum computers use qubits, which exploit superposition to be 0 and 1 simultaneously — exponentially more powerful for certain problems.
+The first iPhone was unveiled by Steve Jobs on January 9, 2007. He described it as "an iPod, a phone, and an internet communicator."
+ENIAC (1945), the first general-purpose electronic computer, weighed 27 tons, used 18,000 vacuum tubes, and filled an entire room.
+The Heartbleed bug (2014) in OpenSSL left an estimated 17% of the internet's secure servers vulnerable for over 2 years undetected.
+The Mars rovers run on a variant of VxWorks, a real-time OS. Spirit and Opportunity both experienced software bugs that threatened the missions.
+The number of transistors on a modern chip (e.g., Apple M3) exceeds 25 billion — more than 3 transistors for every person on Earth.
+Linus Torvalds deliberately made Git distributed so no single server could hold the entire Linux kernel hostage.
+The first African to win a Turing Award — computer science's highest honor equivalent to the Nobel Prize — has yet to emerge. The continent's time is coming.
+Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."  
+You can lead a cow upstairs but not downstairs.
+The Nullarbor Plain of Australia covers 100,000 square miles (160,900 km) without a tree.
+The electric chair was invented by a dentist.
+Mr. Rogers was an ordained Presbyterian minister.
+Most lipstick contains fish scales!
+It has been estimated that humans use only 10% of their brain.
+Banging your head against a wall uses 150 calories an hour.
+Hair is made from the same substance as fingernails.
+Intelligent people have more zinc and copper in their hair.
+You can sail all the way around the world at latitude 60 degrees south.
+The human tongue tastes bitter things with the taste buds toward the back. Salty and pungent flavors are tasted in the middle of the tongue, sweet flavors at the tip!
+The thumbnail grows the slowest, the middle nail the fastest, nearly 4 times faster than toenails.
+Jamaica has the most churches per square mile than any other country in the world.
+Sherlock Holmes NEVER said, "Elementary, my dear Watson."
+Every acre of American crops harvested contains 100 pounds of insects.
+Triskaidekaphobia means fear of the number 13.
+Ancient Egyptian priests would pluck every hair from their bodies.
+The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.  More than 2 billion pencils are manufactured each year in the United States. If these were laid end to end they would circle the world nine times.
+Abraham Lincoln’s ghost is said to haunt the White House.
+Simplistic passwords contribute to over 80% of all computer password break-ins.
+Prince Charles and Prince William never travel on the same airplane in case there is a crash.
+It has NEVER rained in Calama, a town in the Atacama Desert of Chile.
+Starfish haven`t got brains.
+Negative emotions such as anxiety and depression can weaken your immune system.
+There is a seven letter word in the English language that contains ten words without rearranging any of its letters, "therein": the, there, he, in, rein, her, here, ere, therein, herein.  
+The giant red star Betelgeuse has a diameter larger than that of the Earth's orbit around the sun. 
+The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.
+An Olympic gold medal must contain 92.5 percent silver
+The Automated Teller Machine (ATM) was introduced in England in 1965.
+More people are killed annually by donkeys than airplane crashes.
